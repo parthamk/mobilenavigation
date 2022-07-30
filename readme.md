@@ -1,4 +1,4 @@
-# README [![README]
+# README
 > Please read the following to understand the codes
 
 ## Resourse
